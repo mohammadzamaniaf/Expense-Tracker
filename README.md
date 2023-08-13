@@ -1,16 +1,28 @@
-# expense_tracker
+# Budget
 
-A new Flutter application.
+Save money wisely. Keep track of your expenses and more...
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Budget is a modern app to keep track of all your incomes and expenses making sure you can manage your finanace.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Spend your money wisely.
+- Balance your income/expense.
+- Manage your purchases.
+- Save your money.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![budget](https://github.com/mohammadzamaniaf/Expense-Tracker/assets/132151000/2041c42a-0f08-4a5a-a33c-b960855478e1)
+
+## Installation
+
+1. Clone this repository.
+2. Run flutter pub get to install the required dependencies.
+3. Run the app using flutter run.
+
+## Contributing
+
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
