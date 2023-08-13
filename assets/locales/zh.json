@@ -1,0 +1,17 @@
+{
+  "expense": "费用",
+  "appName": "预算",
+  "income": "收入",
+  "home": "家",
+  "settings": "设置",
+  "debt": "债务",
+  "name": "名称",
+  "price": "价格",
+  "isIncome": "是收入",
+  "addAmount": "添加金额",
+  "nameError": "请输入标题",
+  "priceError": "请输入金额\n",
+  "language": "语",
+  "edit": "编辑",
+  "delete": "删除"
+}

@@ -1,0 +1,17 @@
+{
+  "expense": "व्यय",
+  "appName": "बजट",
+  "income": "आय",
+  "home": "घर",
+  "settings": "समायोजन",
+  "debt": "कर्ज़",
+  "name": "नाम",
+  "price": "कीमत",
+  "isIncome": "आय है",
+  "addAmount": "राशि जोड़ें",
+  "nameError": "कृपया एक शीर्षक दर्ज करें",
+  "priceError": "कृपया एक राशि दर्ज करें",
+  "language": "भाषा",
+  "edit": "संपादित करें",
+  "delete": "हटाएं"
+}

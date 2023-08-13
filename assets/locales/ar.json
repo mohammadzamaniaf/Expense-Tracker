@@ -1,0 +1,17 @@
+{
+  "expense": "مصروف",
+  "appName": "الدخل",
+  "income": "دخل",
+  "home": "مسكن",
+  "settings": "إعدادات",
+  "debt": "دين",
+  "name": "اسم",
+  "price": "السعر",
+  "isIncome": "هو الدخل",
+  "addAmount": "أضف المبلغ",
+  "nameError": "الرجاء إدخال عنوان",
+  "priceError": "الرجاء إدخال مبلغ",
+  "language": "لغة",
+  "edit": "تعديل",
+  "delete": "حذف"
+}

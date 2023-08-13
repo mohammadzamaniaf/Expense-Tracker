@@ -1,0 +1,17 @@
+{
+  "expense": "Gastos",
+  "appName": "Presupuesto",
+  "income": "Ingreso",
+  "home": "Casa",
+  "settings": "Ajustes",
+  "debt": "Deuda",
+  "name": "Nombre",
+  "price": "Precio",
+  "isIncome": "Es la renta",
+  "addAmount": "Agregar monto",
+  "nameError": "Por favor ingrese un título",
+  "priceError": "Ingrese una cantidad",
+  "language": "Idioma",
+  "edit": "Editar",
+  "delete": "Borrar"
+}
